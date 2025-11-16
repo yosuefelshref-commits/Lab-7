@@ -1,4 +1,4 @@
-package models;
+package com.example.models;
 public class Lesson {
     private static int nextId = 1;
     private int lessonId;
